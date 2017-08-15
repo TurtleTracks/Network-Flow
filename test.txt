@@ -1,0 +1,9 @@
+s a 10
+s b 10
+a b 10
+a c 4
+a d 8
+b d 9
+c t 10
+d c 6
+d t 10
